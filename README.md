@@ -13,4 +13,4 @@ Insert text just like into an editor.
 
 Click words to toggle between upper and lower case.
 
-Say "submit" to close the window and insert its text into whatever has gets the focus now.
+Say "submit" to close the window and insert its text into whatever gets the focus now.
